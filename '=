@@ -1,0 +1,23 @@
+name = "taco legs"
+
+print(name.upper())
+print("ac" in name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
